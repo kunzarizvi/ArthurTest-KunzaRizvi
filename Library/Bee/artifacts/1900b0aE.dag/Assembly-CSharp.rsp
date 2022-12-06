@@ -338,7 +338,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Instructions.cs"
-"Assets/RotateScript.cs"
+"Assets/Scripts/RotateScript.cs"
+"Assets/Scripts/VertexSelector.cs"
+"Assets/Scripts/XSkew.cs"
+"Assets/Scripts/YSkew.cs"
+"Assets/Scripts/ZSkew.cs"
 -langversion:9.0
 
 /deterministic
